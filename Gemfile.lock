@@ -192,6 +192,7 @@ DEPENDENCIES
   devise
   erb2haml
   haml-rails
+  html2haml
   jbuilder (~> 2.0)
   jquery-rails
   mysql2
